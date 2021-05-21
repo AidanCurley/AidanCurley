@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Aidan.
+## 👋 Hi, I’m Aidan. Thanks for stopping by.
 
 I’m interested in all things code, and am currently undertaking an MSc in Computer Science at the University of Essex.
 I'm always interested in collaboration, so feel free to get in touch if you have any ideas.

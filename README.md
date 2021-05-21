@@ -32,4 +32,3 @@ I'm always interested in collaboration, so feel free to get in touch if you have
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/aidan-c-2359a1203/)
 
-email: redyelruc1@hotmail.com

@@ -23,8 +23,10 @@ I'm always interested in collaboration, so feel free to get in touch if you have
 ![](https://img.shields.io/badge/-Salesforce-informational?style=flat&logo=Salesforce&logoColor=white&color=blue)
 
 
+### My Github Stats
 
-[! GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AidanCurley/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AidanCurley&show_icons=true&theme=dark&hide_title=true)
+
 
 
 ### Contact Me

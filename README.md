@@ -1,6 +1,7 @@
 ## 👋 Hi, I’m Aidan. Thanks for stopping by.
 
 I’m interested in all things code, and am currently undertaking an MSc in Computer Science at the University of Essex.
+I work as a Sofware Engineer, devloping on the Salesforce ecosystem.
 I'm always interested in collaboration, so feel free to get in touch if you have any ideas.
 
 
@@ -29,6 +30,8 @@ I'm always interested in collaboration, so feel free to get in touch if you have
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AidanCurley&show_icons=true&theme=dark&hide_title=true)
 
 
+### My Uni Portfolio
+[Portfolio](https://aidancurley.github.io/)
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/aidan-c-2359a1203/)

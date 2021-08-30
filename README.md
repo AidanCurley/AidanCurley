@@ -34,5 +34,5 @@ I'm always interested in collaboration, so feel free to get in touch if you have
 [Portfolio](https://aidancurley.github.io/)
 
 ### Contact Me
-[LinkedIn](https://www.linkedin.com/in/aidan-c-2359a1203/)
+[LinkedIn](https://www.linkedin.com/in/aidan-c-2359a1203/), [Trailhead](https://trailblazer.me/id/redyelruc/)
 
